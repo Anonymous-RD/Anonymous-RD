@@ -26,7 +26,7 @@
 - AI & ML
 
 ### 📫 Reach Me At
-- **Email:** rohithaldar.22@outlook.com
+- **Email:** rohithaldar.22@gmail.com
 
 ---
 
@@ -58,18 +58,21 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anonymous-RD&theme=tokyonight" alt="GitHub Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anonymous-RD&theme=tokyonight" alt="Repos Per Language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anonymous-RD&theme=tokyonight" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anonymous-RD&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anonymous-RD&theme=tokyonight" 
+        alt="Top Languages by Repo" 
+        width="100%" 
+      />
+    </td>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anonymous-RD&theme=tokyonight" 
+        alt="Top Languages by Commit" 
+        width="100%" 
+      />
+    </td>
+  </tr>
+</table>
