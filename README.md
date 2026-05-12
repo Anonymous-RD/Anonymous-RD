@@ -56,23 +56,43 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<table align="center">
+<div align="center">
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anonymous-RD&theme=tokyonight" 
+  alt="GitHub Profile Summary" 
+  width="95%" 
+/>
+
+<br/><br/>
+
+<table>
   <tr>
-    <td align="center" width="50%">
+    <td>
       <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anonymous-RD&theme=tokyonight" 
         alt="Top Languages by Repo" 
-        width="100%" 
+        width="420" 
       />
     </td>
-    <td align="center" width="50%">
+    <td>
       <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anonymous-RD&theme=tokyonight" 
         alt="Top Languages by Commit" 
-        width="100%" 
+        width="420" 
       />
     </td>
   </tr>
 </table>
+
+<br/>
+
+<img 
+  src="https://streak-stats.demolab.com?user=Anonymous-RD&theme=tokyonight&hide_border=true" 
+  alt="GitHub Streak" 
+  width="70%" 
+/>
+
+</div>
